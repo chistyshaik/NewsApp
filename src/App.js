@@ -7,7 +7,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        hello my first class based component {this.name}
+        hello my first class based component{this.name}
       </div>
     )
   }
